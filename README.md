@@ -16,7 +16,7 @@ Hosting: AWS S3 Static Website Hosting
 Languages Used: HTML, CSS, Python, JavaScript (embedded)
 
 
- 📊 Features:
+ 📊 Features.
 
  Hosted resume on AWS S3 using static website hosting
  Real-time visitor counter fetched using JavaScript and API Gateway
